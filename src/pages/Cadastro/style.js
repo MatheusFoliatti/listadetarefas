@@ -3,6 +3,7 @@ export const styles = StyleSheet.create({
     container: {
       flex: 1,
       padding: 10,
+      backgroundColor:'#f0ee87',
     },
     pageTitle: {
       textAlign: 'center',
